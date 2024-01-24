@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(189, 216, 208);
+    margin-top: 4rem;
+    
+}
+.search{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.btnfil{
+    
+    max-width: 200px;
+}
+.tb{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+h1{
+    justify-content: center;
+    align-items: center;
+}
